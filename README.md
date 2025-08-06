@@ -6,5 +6,5 @@ Personal blog I/GenAI write articles for and never publish [https://samuel.wibro
 
 - 🔭 I’m currently working on building internal developer platforms
 - 🌱 I’m currently learning Golang
-- 👯 I’m looking to collaborate on personal finance banking apps
+- 👯 I’m building mobile apps with the help of genai
 - 📫 How to reach me: [linkedin](https://www.linkedin.com/in/samuelwibrow/)
